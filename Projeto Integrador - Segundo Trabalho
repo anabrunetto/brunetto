@@ -1,0 +1,48 @@
+Projeto Integrador – Programação Aplicado no Direito
+Segundo Trabalho do Semestre – Computadores e Arquivos
+
+Aluna: Ana Carolina Brunetto Silva
+Matrícula: 2021 0418 2597
+
+Informe:
+
+1.	A relação entre a LGPD e os Data Centers no Brasil:
+
+Sobretudo, a Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas. Por este motivo, esse aspecto mostra a necessidade de um cuidado especial 
+com a administração do Data Center. Afinal, esse recurso tem como papel hospedar dados e disponibilizá-los de acordo com as necessidades do público-alvo. Diante deste cenário, para evitar o acesso indevido às informações, 
+é preciso haver um mapeamento dos dados que estão sob a responsabilidade de uma instituição. Esse processo colabora para avaliar o que pode ser protegido internamente ou ficar por conta de um provedor de serviços de TI. 
+Em muitos casos, uma empresa opta pela terceirização dos serviços de Tecnologia da Informação, porque facilita a adequação aos preceitos da LGPD e, ao mesmo tempo, permite a redução de custos. Outrossim, com o intuito de 
+minimizar as probabilidades de roubo ou vazamento de dados, as organizações devem ter um maior rigor com a política de acesso aos ambientes físicos e virtuais. Ao evitar a presença de pessoas não autorizadas em um Data Center 
+e limitar o acesso aos sistemas de gestão de ambientes de TI, torna-se viável estar de acordo com as regras da LGPD.	Mais uma prova da relação impactante entre Data Center e a Lei Geral de Proteção de Dados envolve o 
+investimento em aprimorar o monitoramento do ambiente. Sem dúvida, essa prática ajuda a prevenir e eliminar as ameaças virtuais. Destarte, conclui-se que a LGPD impacta o setor de Data Centers a partir do foco na política de 
+acessos, no monitoramento mais preciso e possuindo mais atenção com o mapeamento dos dados.
+
+
+2.	Formatos de arquivos de dados proprietários e abertos:
+
+Em primeira análise é imperioso definir que formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Assim, formatos portam padrões e são implementados por 
+softwares, podendo ser abertos ou fechados, livres ou proprietários. Dessa maneira, os formatos proprietários representam a privatização da memória digital. Em outras palavras, os formatos proprietários são, na verdade, 
+controlados e definidos por interesses privados. Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, 
+já que não teria outro sistema capaz de processá-las. Dessa forma, todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo. 
+Por outro lado, os arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos, sendo livres de restrições legais para seu uso. 
+Logo, permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Nesse víeis, O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças 
+jurídicas ou restrições devidas às especificações técnicas, em outras palavras, garantir a interoperabilidade. Por fim, outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante 
+detenha o controle sobre um formato proprietário.
+
+
+3.	Exemplos de formatos:
+
+A título de exemplo, o formato MP3 (formato de áudio), é proprietário, mas também é aberto porque, é patenteado, ou seja, suas especificações são públicas. Desse modo, tornar públicas as especificações técnicas é uma 
+maneira de difundir o formato e torná-lo um padrão internacional. Nessa perspectiva, é válido destacar que a diferença entre formato proprietário aberto e opensource, é que enquanto o formato opensource pode ser lido ou
+editado por qualquer aplicativo, o formato proprietário aberto pode ser alterado apenas com o programa proprietário. Ademais, é evidente o valor do formato IFC, onde os dados são independentes do formato do arquivo onde 
+eles são armazenados e transmitidos.
+
+
+4.	Implicações a relacionados a dados públicos:
+
+Não se pode negligenciar a importância que a Lei de Acesso à Informação trouxe para o trato com a informação pública, que ainda é distante do ideal e carece de uma mudança de cultura. Muitos são os desafios enfrentados, mas a 
+conscientização e o treinamento permanente podem possibilitar essas mudanças. Entende-se que é necessária a sensibilização de gestores para a importância da transparência e para a compreensão de que os pedidos de acesso à 
+informação podem se transformar numa ferramenta de gestão. O investimento em gestão de informação é um facilitador da transparência, uma vez que diminui o trabalho para a disponibilização das informações, dando mais agilidade 
+aos processos. Ainda há dificuldades para o acesso à informação, mas desde a entrada em vigor da lei nº 12.527/11, inúmeras ações, seja de capacitação ou criação de mecanismos voltados para a gestão da transparência e para a 
+transparência ativa têm sido construídas pelos órgãos que regulam e fiscalizam as políticas relacionadas à informação. Para finalizar, cabe a reflexão sobre a importância da disponibilização das informações públicas para a 
+administração pública. Segundo Gruman (2012) o acesso à informação não é a solução para o bom funcionamento da máquina pública, mas sim um instrumento para acesso e eficácia das políticas públicas.
