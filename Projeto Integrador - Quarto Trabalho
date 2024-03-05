@@ -1,0 +1,19 @@
+Ibmec - Centro
+
+Projeto Integrador: Programação aplicada ao Direito
+
+Aluna: Ana Carolina Brunetto Silva
+
+
+Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: uma estrutura de repetição e uma estrutura de tomada de decisão =
+
+
+    As estruturas de repetição são recursos das linguagens de programação responsáveis por executar um bloco de código repetidamente através de determinadas condições 
+especificas. O Python contém dois tipos de estruturas de repetição: for e while.
+
+    Vamos iniciar pelos detalhes das estruturas de repetição, ou melhor dizendo, os loops utilizando o for. O for é utilizado para percorrer ou iterar sobre uma sequência 
+de dados (seja esse uma lista, uma tupla, uma string), executando um conjunto de instruções em cada item. Como, o Python utiliza identação para separar blocos de código: 
+nos loops utilizando for não é diferente. Sua sintaxe básica é: for <nome variável> in <iterável>. Logo:
+
+<nome variável> é o nome da variável que vai receber os elemento de <iterável>.
+<iterável> é o container de dados sobre o qual vamos iterar, podendo ser: uma lista, uma tupla, uma string, um dicionário, entre outros.
