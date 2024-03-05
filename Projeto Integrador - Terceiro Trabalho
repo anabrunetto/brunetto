@@ -53,22 +53,21 @@ bibliotecas, frameworks e ferramentas que facilitam o desenvolvimento de aplica�
 Node.js é uma plataforma construída sobre o motor V8 do Google Chrome, que permite executar código JavaScript no lado do servidor. 
 Isso torna possível desenvolver aplicações web totalmente JavaScript, tanto no cliente quanto no servidor.
 
-Assim, é de grande magnitude mencionar que 97,8% de todos 
-os sites no mundo utilizam JavaScript para seu desenvolvimento client-side (a interface que é visível para os 
-visitantes). Isso faz com que essa seja a linguagem de programação mais popular para esses casos. O JavaScript geralmente é utilizado 
-para melhorar a interatividade de páginas na internet. Essa linguagem de programação permite que os desenvolvedores web adicionem 
-elementos dinâmicos nas landing pages, como gráficos animados, botões clicáveis e efeitos que aparecem quando passamos o mouse sobre
+        Assim, é de grande magnitude mencionar que 97,8% de todos os sites no mundo utilizam JavaScript para seu desenvolvimento client-side 
+(a interface que é visível para os visitantes). Isso faz com que essa seja a linguagem de programação mais popular para esses casos. O JavaScript 
+geralmente é utilizado para melhorar a interatividade de páginas na internet. Essa linguagem de programação permite que os desenvolvedores web 
+adicionem elementos dinâmicos nas landing pages, como gráficos animados, botões clicáveis e efeitos que aparecem quando passamos o mouse sobre
 alguma sessão específica do site. A linguagem JavaScript não é útil apenas para criar sites, mas também é excelente para desenvolvimento 
 de aplicações web, já que oferece um design muito intuitivo. De modo geral, a JavaScript é uma daquelas linguagens de programação 
 relativamente fáceis de aprender, tornando esta a escolha perfeita para quem está planejando se tornar um desenvolvedor web. 
 Ademais, os desenvolvedores JavaScript também podem se inserir no mercado de trabalho como designers UI/UX, desenvolvedores 
 full-stack e engenheiros de software.
 
-JavaScript é uma linguagem muito versátil e poderosa, que desempenha um papel fundamental no desenvolvimento moderno de 
+        JavaScript é uma linguagem muito versátil e poderosa, que desempenha um papel fundamental no desenvolvimento moderno de 
 aplicações web e móveis. Com a ascensão de frameworks como React, Angular e Vue.js, JavaScript continua a ser uma das 
 linguagens de programação mais relevantes e amplamente utilizadas no mundo do desenvolvimento de software.
 
-https://github.com/anabrunetto/brunetto/blob/main/JavaScript.PNG
+https://github.com/anabrunetto/brunetto/blob/main/Javascript1.PNG
 
 
 •	Java = Java é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma. Ela foi desenvolvida pela Sun 
