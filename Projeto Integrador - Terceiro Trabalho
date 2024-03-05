@@ -37,7 +37,9 @@ e pesquisador de inteligência artificial (IA).
 de jogos, inteligência artificial e aprendizado de máquina, entre outros. Sua versatilidade e simplicidade 
 tornaram-na uma das linguagens de programação mais populares e amplamente utilizadas em todo o mundo.
 
-https://github.com/anabrunetto/brunetto/blob/main/Pyhton1.PNG
+    Segue prova de execução:
+
+    https://github.com/anabrunetto/brunetto/blob/main/Pyhton1.PNG
 
 
 •	JavaScript = é uma linguagem de programação de alto nível, interpretada, e dinâmica. Ela é principalmente conhecida por ser a linguagem 
@@ -67,10 +69,12 @@ full-stack e engenheiros de software.
 aplicações web e móveis. Com a ascensão de frameworks como React, Angular e Vue.js, JavaScript continua a ser uma das 
 linguagens de programação mais relevantes e amplamente utilizadas no mundo do desenvolvimento de software.
 
-https://github.com/anabrunetto/brunetto/blob/main/Javascript1.PNG
+    Segue prova de execução:
+
+    https://github.com/anabrunetto/brunetto/blob/main/Javascript1.PNG
 
 
-•	Java = Java é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma. Ela foi desenvolvida pela Sun 
+•	Java = é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma. Ela foi desenvolvida pela Sun 
 Microsystems (adquirida pela Oracle Corporation) na década de 1990. Java é conhecida por sua portabilidade, segurança e robustez, sendo 
 amplamente utilizada em uma variedade de aplicações, desde desenvolvimento web até aplicações corporativas e sistemas embarcados.
 É uma linguagem de programação exclusiva que pertence à Oracle. Trata-se de uma linguagem de programação de alto nível. Em outras palavras, 
@@ -79,7 +83,7 @@ tipo de aplicação com facilidade. O código Java é compilado em bytecode, que
 independentemente do sistema operacional. Isso significa que uma vez que o código é compilado, ele pode ser executado em qualquer 
 dispositivo que tenha uma JVM instalada. 
 
-Desse modo, Java é conhecida por sua capacidade de funcionar em várias plataformas, 
+        Desse modo, Java é conhecida por sua capacidade de funcionar em várias plataformas, 
 incluindo Windows, macOS, Linux e dispositivos móveis. Isso faz dela uma escolha popular para o desenvolvimento de aplicativos que 
 precisam ser executados em diferentes ambientes. Amplamente conhecida como uma linguagem do tipo “escreva uma vez, rode em qualquer lugar”, 
 os códigos Java podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos. 
@@ -87,21 +91,22 @@ A linguagem Java é relativamente simples. Isso se deve à sua sintaxe, que poss
 com estruturas orientadas a objetos. Além disso, os novos frameworks Java, como Spring e Hibernate, tornam a linguagem ainda 
 mais conveniente para que os desenvolvedores construam aplicações de diversas naturezas. 
 
-Ademais, é projetada com um forte foco em segurança. 
-A JVM executa o bytecode Java em um ambiente sandbox, o que restringe as operações que o programa pode realizar, garantindo assim que os 
-programas Java sejam seguros contra atividades maliciosas. Outrossim, é uma linguagem robusta que fornece verificações de tipo em tempo 
-de compilação, coleta de lixo automática, tratamento de exceções e verificação de limites de array, entre outros recursos, que ajudam a evitar 
-muitos tipos de erros comuns de programação. Java é amplamente utilizado em uma variedade de aplicações, incluindo desenvolvimento de aplicativos 
-para desktop, desenvolvimento web, sistemas de informação empresariais, jogos, aplicativos móveis (Android) e muito mais. Ela é suportada por
-uma vasta comunidade de desenvolvedores e possui uma grande quantidade de bibliotecas e frameworks disponíveis para facilitar o 
+        Ademais, é projetada com um forte foco em segurança. A JVM executa o bytecode Java em um ambiente sandbox, o que restringe as operações que 
+o programa pode realizar, garantindo assim que os programas Java sejam seguros contra atividades maliciosas. Outrossim, é uma linguagem robusta 
+que fornece verificações de tipo em tempo de compilação, coleta de lixo automática, tratamento de exceções e verificação de limites de array, 
+entre outros recursos, que ajudam a evitar muitos tipos de erros comuns de programação. Java é amplamente utilizado em uma variedade de aplicações, 
+incluindo desenvolvimento de aplicativos para desktop, desenvolvimento web, sistemas de informação empresariais, jogos, aplicativos móveis (Android) e muito mais.
+Ela é suportada por uma vasta comunidade de desenvolvedores e possui uma grande quantidade de bibliotecas e frameworks disponíveis para facilitar o 
 desenvolvimento de software.
 
-Desde a engenharia de softwares até o desenvolvimento web back-end, passando pela ciência de dados e pelo big data, é possível 
+        Desde a engenharia de softwares até o desenvolvimento web back-end, passando pela ciência de dados e pelo big data, é possível 
 fazer tudo usando Java. Adicionalmente, esta linguagem de programação é comumente utilizada em serviços financeiros devido à sua segurança 
 robusta. Programadores Java também têm facilidade em aprender novas linguagens de programação devido às suas habilidades, que são transferíveis.
 Por esse motivo, Java pode ser considerada a linguagem perfeita para ser a primeira aprendizagem de um entusiasta da programação. 
 Quanto à demanda por profissionais desenvolvedores de Java, ela segue em alta. É possível atuar em diversos ramos e áreas, como 
 engenharia de software, análise e monitoramento de qualidade, gerenciamento de projetos e design UX.
 
-https://github.com/anabrunetto/brunetto/blob/main/Java.PNG
+    Segue prova de execução:
+
+    https://github.com/anabrunetto/brunetto/blob/main/Java1.PNG
 
