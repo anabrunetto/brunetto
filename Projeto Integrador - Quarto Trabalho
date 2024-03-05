@@ -21,9 +21,9 @@ nos loops utilizando for não é diferente. Sua sintaxe básica é: for <nome va
 
     Segue exemplo:
     
-    https://github.com/anabrunetto/brunetto/blob/main/Phyton%20estrutura%20de%20repeticao.PNG
+    https://github.com/anabrunetto/brunetto/blob/main/Pyhton%20tomada%20de%20decis%C3%A3o1.PNG
 
-Vamos entender passo a passo:
+    Ou seja:
 
 Na primeira iteração, item vai receber o valor do primeiro elemento da lista lista, que é 1. Portanto print(item) vai mostrar o valor 1.
 Na segunda iteração, item vai receber o valor do segundo elemento da lista lista, que é 2. Portanto print(item) vai mostrar o valor 2.
