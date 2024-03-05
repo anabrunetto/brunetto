@@ -6,21 +6,53 @@ Aluna: Ana Carolina Brunetto Silva           Matrícula: 202104182597
 
 Diferença entre as 3 linguagens de programação:
 
-•	Pyton = é uma linguagem de programação de alto nível e para propósitos diversos. Ela pode ser utilizada para múltiplas tarefas, desde a análise 
-e visualização de dados até o desenvolvimento, prototipação e automação web. Nessa perspectiva, a linguagem Python é muito popular entre 
-desenvolvedores de software, pois funciona muito bem como uma linguagem de scripts. Adicionalmente, ela permite que seus usuários utilizem 
-diferentesparadigmas de programação, incluindo linguagens de programação funcionais, processuais, imperativas e orientadas a objetos. 
-Outra característica importante da linguagem Python é que ela é de código aberto, isto é, ela permite que os programadores modifiquem 
-seu código-fonte para que se ajusteàs suas necessidades. Além de tudo isso, é mais simples aprender Python do que as outras linguagens 
-de programação, graças à sua sintaxe, que é familiar à língua inglesa. Para ajudar ainda mais, a demanda por desenvolvedores Python 
-é crescente no mercado. É possível escolher entre várias linhas de trabalho, seja como cientista de dados, engenheiro de softwares 
+•	Pyhton = Python é uma linguagem de programação de alto nível, interpretada, multiparadigma e de propósito geral. Ela foi criada por Guido 
+van Rossum e lançada pela primeira vez em 1991. Python é conhecida por sua sintaxe simples e legibilidade que facilita a leitura e a escrita
+do código o que a torna uma escolha popular entre programadores iniciantes e experientes, sendo assim uma linguagem de programação de alto nível 
+e para propósitos diversos. Ela pode ser utilizada para múltiplas tarefas, desde a análise e visualização de dados até o desenvolvimento, 
+prototipação e automação web. Nessa perspectiva, a linguagem Python é muito popular entre desenvolvedores de software, pois funciona muito 
+bem como uma linguagem de scripts. Adicionalmente, ela permite que seus usuários utilizem diferentes paradigmas de programação, incluindo 
+linguagens de programação funcionais, processuais, imperativas e orientadas a objetos. Logo, Python é uma linguagem interpretada, o que 
+significa que o código fonte é executado linha por linha pelo interpretador Python. Isso permite uma rápida prototipagem e desenvolvimento 
+iterativo. Outra característica importante da linguagem Python é que ela é de código aberto, isto é, ela permite que os programadores 
+modifiquem seu código-fonte para que se ajusteàs suas necessidades. Python suporta múltiplos paradigmas de programação, incluindo programação 
+orientada a objetos, programação funcional e programação imperativa. Isso dá aos desenvolvedores a 
+flexibilidade de escolher o estilo de programação mais adequado para suas necessidades.
+
+É imperioso destacar que o Pyhton suportada em diversas plataformas, incluindo Windows, macOS, Linux, entre outros. Isso significa 
+que os programas Python podem ser executados em diferentes sistemas operacionais sem a necessidade de modificação do código fonte. Também 
+possuiuma ampla biblioteca padrão que fornece uma vasta gama de módulos e pacotes para realizar diversas tarefas, como manipulação de arquivos, 
+acesso à rede, processamento de texto, geração de gráficos, entre outros. Ainda possui uma grande comunidade de desenvolvedores que 
+contribuem com bibliotecas, frameworks e ferramentas para aprimorar o ecossistema Python. Isso inclui projetos como Django e Flask 
+para desenvolvimento web, NumPy e Pandas para computação científica e análise de dados, entre outros.
+
+Além disso, é mais simples aprender Python do que as outras linguagens de programação, graças à sua sintaxe, 
+que é familiar à língua inglesa. Para ajudar ainda mais, a demanda por desenvolvedores Python é crescente no mercado. 
+É possível escolher entre várias linhas de trabalho, seja como cientista de dados, engenheiro de softwares 
 e pesquisador de inteligência artificial (IA).
+
+Python é utilizado em uma variedade de domínios, incluindo desenvolvimento web, ciência de dados, automação de tarefas, desenvolvimento 
+de jogos, inteligência artificial e aprendizado de máquina, entre outros. Sua versatilidade e simplicidade 
+tornaram-na uma das linguagens de programação mais populares e amplamente utilizadas em todo o mundo.
 
 https://github.com/anabrunetto/brunetto/blob/main/Pyton.PNG
 
 
-•	JavaScript = juntamente com HTML e CSS, é a melhor linguagem de programação para aprender desenvolvimento web front-end. É de grande magnitude 
-mencionar que 97,8% de todos os sites no mundo utilizam JavaScript para seu desenvolvimento client-side (a interface que é visível para os 
+•	JavaScript = é uma linguagem de programação de alto nível, interpretada, e dinâmica. Ela é principalmente conhecida por ser a linguagem 
+de script dos navegadores web, mas também é utilizada em uma variedade de outros contextos, incluindo desenvolvimento web, desenvolvimento 
+de aplicativos móveis, desenvolvimento de servidores e até mesmo desenvolvimento de aplicações de desktop, juntamente com HTML e CSS, 
+é a melhor linguagem de programação para aprender desenvolvimento web front-end. JavaScript é uma linguagem interpretada, o que significa 
+que o código-fonte é executado linha por linha por um interpretador JavaScript em tempo de execução. as variáveis não precisam ser 
+explicitamente declaradas com um tipo de dado. O tipo de dado de uma variável pode ser alterado dinamicamente durante a execução do programa.
+Ademais, suporta múltiplos paradigmas de programação, incluindo programação orientada a objetos, programação funcional e programação imperativa.
+Sendo uma linguagem de script padrão para navegadores web. Ela ainda é usada para adicionar interatividade às páginas da web, como validação de 
+formulários, manipulação de eventos, animações e muito mais. possui uma grande comunidade de desenvolvedores e uma vasta gama de 
+bibliotecas, frameworks e ferramentas que facilitam o desenvolvimento de aplicações web e móveis. Destarte, conclui-se que 
+Node.js é uma plataforma construída sobre o motor V8 do Google Chrome, que permite executar código JavaScript no lado do servidor. 
+Isso torna possível desenvolver aplicações web totalmente JavaScript, tanto no cliente quanto no servidor.
+
+Assim, é de grande magnitude mencionar que 97,8% de todos 
+os sites no mundo utilizam JavaScript para seu desenvolvimento client-side (a interface que é visível para os 
 visitantes). Isso faz com que essa seja a linguagem de programação mais popular para esses casos. O JavaScript geralmente é utilizado 
 para melhorar a interatividade de páginas na internet. Essa linguagem de programação permite que os desenvolvedores web adicionem 
 elementos dinâmicos nas landing pages, como gráficos animados, botões clicáveis e efeitos que aparecem quando passamos o mouse sobre
@@ -30,19 +62,42 @@ relativamente fáceis de aprender, tornando esta a escolha perfeita para quem es
 Ademais, os desenvolvedores JavaScript também podem se inserir no mercado de trabalho como designers UI/UX, desenvolvedores 
 full-stack e engenheiros de software.
 
+JavaScript é uma linguagem muito versátil e poderosa, que desempenha um papel fundamental no desenvolvimento moderno de 
+aplicações web e móveis. Com a ascensão de frameworks como React, Angular e Vue.js, JavaScript continua a ser uma das 
+linguagens de programação mais relevantes e amplamente utilizadas no mundo do desenvolvimento de software.
+
 https://github.com/anabrunetto/brunetto/blob/main/JavaScript.PNG
 
 
-•	Java = é uma linguagem de programação exclusiva que pertence à Oracle. Trata-se de uma linguagem de programação de alto nível. Em outras 
-palavras, é a que mais se aproxima da linguagem humana, e para propósitos diversos, permitindo que os desenvolvedores criem todo e qualquer 
-tipo de aplicação com facilidade.Amplamente conhecida como uma linguagem do tipo “escreva uma vez, rode em qualquer lugar”, os códigos 
-Java podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos. 
+•	Java = Java é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma. Ela foi desenvolvida pela Sun 
+Microsystems (adquirida pela Oracle Corporation) na década de 1990. Java é conhecida por sua portabilidade, segurança e robustez, sendo 
+amplamente utilizada em uma variedade de aplicações, desde desenvolvimento web até aplicações corporativas e sistemas embarcados.
+É uma linguagem de programação exclusiva que pertence à Oracle. Trata-se de uma linguagem de programação de alto nível. Em outras palavras, 
+é a que mais se aproxima da linguagem humana, e para propósitos diversos, permitindo que os desenvolvedores criem todo e qualquer 
+tipo de aplicação com facilidade. O código Java é compilado em bytecode, que pode ser executado em qualquer máquina virtual Java (JVM), 
+independentemente do sistema operacional. Isso significa que uma vez que o código é compilado, ele pode ser executado em qualquer 
+dispositivo que tenha uma JVM instalada. 
+
+Desse modo, Java é conhecida por sua capacidade de funcionar em várias plataformas, 
+incluindo Windows, macOS, Linux e dispositivos móveis. Isso faz dela uma escolha popular para o desenvolvimento de aplicativos que 
+precisam ser executados em diferentes ambientes. Amplamente conhecida como uma linguagem do tipo “escreva uma vez, rode em qualquer lugar”, 
+os códigos Java podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos. 
 A linguagem Java é relativamente simples. Isso se deve à sua sintaxe, que possui familiaridade com tarefas do mundo real e 
 com estruturas orientadas a objetos. Além disso, os novos frameworks Java, como Spring e Hibernate, tornam a linguagem ainda 
-mais conveniente para que os desenvolvedores construam aplicações de diversas naturezas.Desde a engenharia de softwares até o 
-desenvolvimento web back-end, passando pela ciência de dados e pelo big data, é possível fazer tudo usando Java. Adicionalmente, 
-esta linguagem de programação é comumente utilizada em serviços financeiros devido à sua segurança robusta. Programadores Java 
-também têm facilidade em aprender novas linguagens de programação devido às suas habilidades, que são transferíveis.
+mais conveniente para que os desenvolvedores construam aplicações de diversas naturezas. 
+
+Ademais, é projetada com um forte foco em segurança. 
+A JVM executa o bytecode Java em um ambiente sandbox, o que restringe as operações que o programa pode realizar, garantindo assim que os 
+programas Java sejam seguros contra atividades maliciosas. Outrossim, é uma linguagem robusta que fornece verificações de tipo em tempo 
+de compilação, coleta de lixo automática, tratamento de exceções e verificação de limites de array, entre outros recursos, que ajudam a evitar 
+muitos tipos de erros comuns de programação. Java é amplamente utilizado em uma variedade de aplicações, incluindo desenvolvimento de aplicativos 
+para desktop, desenvolvimento web, sistemas de informação empresariais, jogos, aplicativos móveis (Android) e muito mais. Ela é suportada por
+uma vasta comunidade de desenvolvedores e possui uma grande quantidade de bibliotecas e frameworks disponíveis para facilitar o 
+desenvolvimento de software.
+
+Desde a engenharia de softwares até o desenvolvimento web back-end, passando pela ciência de dados e pelo big data, é possível 
+fazer tudo usando Java. Adicionalmente, esta linguagem de programação é comumente utilizada em serviços financeiros devido à sua segurança 
+robusta. Programadores Java também têm facilidade em aprender novas linguagens de programação devido às suas habilidades, que são transferíveis.
 Por esse motivo, Java pode ser considerada a linguagem perfeita para ser a primeira aprendizagem de um entusiasta da programação. 
 Quanto à demanda por profissionais desenvolvedores de Java, ela segue em alta. É possível atuar em diversos ramos e áreas, como 
 engenharia de software, análise e monitoramento de qualidade, gerenciamento de projetos e design UX.
