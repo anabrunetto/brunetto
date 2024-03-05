@@ -4,7 +4,9 @@ Projeto Integrador: Programação Aplicada ao Direito
 
 Aluna: Ana Carolina Brunetto Silva           Matrícula: 202104182597
 
+
 Diferença entre as 3 linguagens de programação:
+
 
 •	Pyhton = é uma linguagem de programação de alto nível, interpretada, multiparadigma e de propósito geral. Ela foi criada por Guido 
 van Rossum e lançada pela primeira vez em 1991. Sendo assim, é conhecida por sua sintaxe simples e legibilidade que facilita a leitura e a escrita
@@ -19,23 +21,23 @@ modifiquem seu código-fonte para que se ajusteàs suas necessidades. Python sup
 orientada a objetos, programação funcional e programação imperativa. Isso dá aos desenvolvedores a 
 flexibilidade de escolher o estilo de programação mais adequado para suas necessidades.
 
-É imperioso destacar que o Pyhton é suportada em diversas plataformas, incluindo Windows, macOS, Linux, entre outros. Isso significa 
+    É imperioso destacar que o Pyhton é suportada em diversas plataformas, incluindo Windows, macOS, Linux, entre outros. Isso significa 
 que os programas Python podem ser executados em diferentes sistemas operacionais sem a necessidade de modificação do código fonte. Também 
 possuiuma ampla biblioteca padrão que fornece uma vasta gama de módulos e pacotes para realizar diversas tarefas, como manipulação de arquivos, 
 acesso à rede, processamento de texto, geração de gráficos, entre outros. Ainda possui uma grande comunidade de desenvolvedores que 
 contribuem com bibliotecas, frameworks e ferramentas para aprimorar o ecossistema Python. Isso inclui projetos como Django e Flask 
 para desenvolvimento web, NumPy e Pandas para computação científica e análise de dados, entre outros.
 
-Além disso, é mais simples aprender Python do que as outras linguagens de programação, graças à sua sintaxe, 
+    Além disso, é mais simples aprender Python do que as outras linguagens de programação, graças à sua sintaxe, 
 que é familiar à língua inglesa. Para ajudar ainda mais, a demanda por desenvolvedores Python é crescente no mercado. 
 É possível escolher entre várias linhas de trabalho, seja como cientista de dados, engenheiro de softwares 
 e pesquisador de inteligência artificial (IA).
 
-Python é utilizado em uma variedade de domínios, incluindo desenvolvimento web, ciência de dados, automação de tarefas, desenvolvimento 
+    Python é utilizado em uma variedade de domínios, incluindo desenvolvimento web, ciência de dados, automação de tarefas, desenvolvimento 
 de jogos, inteligência artificial e aprendizado de máquina, entre outros. Sua versatilidade e simplicidade 
 tornaram-na uma das linguagens de programação mais populares e amplamente utilizadas em todo o mundo.
 
-https://github.com/anabrunetto/brunetto/blob/main/Pyton.PNG
+https://github.com/anabrunetto/brunetto/blob/main/Pyhton1.PNG
 
 
 •	JavaScript = é uma linguagem de programação de alto nível, interpretada, e dinâmica. Ela é principalmente conhecida por ser a linguagem 
