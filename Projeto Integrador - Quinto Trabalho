@@ -36,6 +36,9 @@ pode ser uma escolha razoável.
 
 https://github.com/anabrunetto/brunetto/blob/main/Python%20-%20Algoritmo%20de%20repeticao%20bubble%20sort.PNG
 
+          Como visto no exemplo acima, isso ordenará o array [37, 21, 56, 12, 8, 90, 46] usando o algoritmo Bubble Sort 
+e imprimirá o array antes e depois da ordenação.
+
 
 2 - implemente um algorítmo que imprima apenas as vogais de uma determinada palavra ou frase =
 
