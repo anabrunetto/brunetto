@@ -45,3 +45,21 @@ pode-se criar um algoritmo em Python que percorre cada caractere da palavra ou f
 
           Segue um algoritmo simples em Python que imprime apenas as vogais de uma palavra ou frase:
 
+https://github.com/anabrunetto/brunetto/blob/main/Algoritmo%20de%20uma%20palavra%20ou%20frase.PNG
+
+          Como visto na implementação acima, este algoritmo percorre cada caractere da entrada (frase) e verifica se ele é uma vogal, comparando-o com 
+uma string contendo todas as vogais maiúsculas e minúsculas. Por conseguinte, se o caractere for uma vogal, ele é adicionado a uma nova string chamada 
+vogais_encontradas. Logo, ao final, o algoritmo retorna a string contendo todas as vogais encontradas na frase.
+
+          Essencialmente, o algoritmo é uma maneira sistemática de identificar e imprimir as vogais em uma palavra ou frase, seguindo uma 
+série de passos definidos.
+
+          À vista disso, a implementação de algoritmos é uma habilidade fundamental para qualquer indivíduo que esteja envolvida no desenvolvimento 
+de software ou interessada em computação. Desta maneira, ela é de extrema importância não apenas para a construção de sistemas eficientes e robustos, 
+mas também para o desenvolvimento de habilidades cognitivas e lógicas.
+
+
+
+
+
+
