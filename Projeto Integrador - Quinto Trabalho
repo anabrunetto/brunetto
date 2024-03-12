@@ -5,6 +5,7 @@ Aluna: Ana Carolina Brunetto Silva
 Matrícula: 2021 0418 2597
 
 
+1- implemente o algoritmo de ordenação Bubble Sort usando python =
 
           Segundo a pesquisa realizada, é de grande magnitude salientar que o algoritmo de ordenação Bubble Sort é um método 
 de ordenação simples e intuitivo.Nessa perspectiva, funciona comparando cada elemento da lista com o elemento adjacente e trocando-os 
@@ -34,4 +35,13 @@ pode ser uma escolha razoável.
           Segue o algoritmo de ordenação Bubble Sort usando python:
 
 https://github.com/anabrunetto/brunetto/blob/main/Python%20-%20Algaritmo%20de%20repeticao%20bubble%20sort.PNG
+
+
+2 - implemente um algorítmo que imprima apenas as vogais de uma determinada palavra ou frase =
+
+          Primeiramente, há de se falar que um algoritmo é uma sequência finita e não ambígua de instruções ou regras bem definidas para resolver 
+um problema ou realizar uma tarefa específica. Desse modo, ele toma uma entrada, executa uma série de passos e produz uma saída desejada. Portanto, 
+pode-se criar um algoritmo em Python que percorre cada caractere da palavra ou frase e verifica se é uma vogal.
+
+          Segue um algoritmo simples em Python que imprime apenas as vogais de uma palavra ou frase:
 
