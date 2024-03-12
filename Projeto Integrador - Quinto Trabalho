@@ -1,0 +1,32 @@
+Projeto Integrador - Programação Aplicada ao Direito - Quinto Trabalho - Algoritimos 
+
+Aluna: Ana Carolina Brunetto Silva
+
+Matrícula: 2021 0418 2597
+
+
+
+          Segundo a pesquisa realizada, é de grande magnitude salientar que o algoritmo de ordenação Bubble Sort é um método 
+de ordenação simples e intuitivo.Nessa perspectiva, funciona comparando cada elemento da lista com o elemento adjacente e trocando-os 
+se estiverem na ordem errada. Esse processo é repetido várias vezes até que toda a lista esteja ordenada.
+
+          Nesse sentido, o primeiro passo para realizar processo do algoritmo de ordenação Bubble Sort é a comparação de elementos adjacentes. 
+Em outras palavras,o algoritmo começa comparando o primeiro elemento da lista com o segundo, depois o segundo com o terceiro, e assim por diante, 
+até o penúltimo com o último elemento.
+
+          Em seguida, pode se realizar a troca de elementos, caso seja necessário. Dessa forma, se o elemento atual for maior (ou menor, 
+dependendo da ordem desejada) que o próximo elemento, eles são trocados de lugar. Isso garante que os elementos maiores (ou menores) 
+"subam" para suas posições corretas.
+
+          Outrossim, depois desse passo dito anteriormente, há também a iteração. Esta por sua vez, ocorre após a primeira passagem, 
+ou seja, o maior (ou menor) elemento estará na posição correta. Assim, o processo é então repetido para os elementos restantes, 
+excluindo o último elemento que já está na posição correta. Isso é feito repetidamente até que nenhum swap seja necessário durante 
+uma passagem completa, o que indica que a lista está ordenada.
+
+          Por fim, o último passo do processo, é a complexidade de tempo. Em outros termos, a complexidade de tempo do Bubble Sort é O(n^2) 
+no pior caso, onde n é o número de elementos na lista. Isso ocorre porque, em cada passagem, o algoritmo faz comparações entre todos os pares 
+de elementos, resultando em um número total de comparações proporcional a n^2.
+
+          Destarte, conclui-se que embora o Bubble Sort seja fácil de entender e implementar, ele não é eficiente para grandes 
+conjuntos de dados devido à sua complexidade de tempo quadrática. No entanto, para conjuntos de dados pequenos ou quase ordenados, 
+pode ser uma escolha razoável.
