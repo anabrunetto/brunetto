@@ -25,12 +25,12 @@ nos loops utilizando for não é diferente. Sua sintaxe básica é: for <nome va
 
     Ou seja:
 
-Na primeira iteração, item vai receber o valor do primeiro elemento da lista lista, que é 1. Portanto print(item) vai mostrar o valor 1.
-Na segunda iteração, item vai receber o valor do segundo elemento da lista lista, que é 2. Portanto print(item) vai mostrar o valor 2.
+Na primeira iteração, o item vai receber o valor do primeiro elemento da lista lista, que é 1. Portanto, print(item) vai mostrar o valor 1.
+Na segunda iteração, o item vai receber o valor do segundo elemento da lista lista, que é 2. Assim, print(item) vai mostrar o valor 2.
 E assim por diante até o último valor, que é 5.
 
 
-    Já as estruturas de tomada de decisão A estrutura if-else é um conceito fundamental na programação que permite que um programa tome 
+    Já nas estruturas de tomada de decisão, a estrutura if-else é um conceito fundamental na programação que permite que um programa tome 
 decisões com base em condições específicas. Essa estrutura condicional permite que partes específicas do código sejam executadas ou ignoradas, 
 dependendo se uma determinada condição é verdadeira ou falsa. Este controle de fluxo/tomada de decisão segue um formato geral que consiste 
 em uma condição a ser avaliada, seguida por um bloco de código a ser executado se a condição for verdadeira e, opcionalmente, um bloco de 
