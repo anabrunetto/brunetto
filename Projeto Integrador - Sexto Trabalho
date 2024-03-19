@@ -32,16 +32,21 @@ https://github.com/anabrunetto/brunetto/blob/main/Script%20de%20Python%20Vari%C3
 usar variáveis e operadores em Python para realizar diferentes tarefas. Dessa forma, cada operação deste script é explicada 
 de forma detalhada, desde a definição das variáveis até a impressão dos resultados.
 
-Assim,
 
-  As quatro primeiras linhas do código definem quatro variáveis para armazenar números (numero1, numero2, numero3 e numero4), 
+  Assim, 
+
+  A definição das variáveis são que:
+
+As quatro primeiras linhas do script definem quatro variáveis para armazenar números (numero1, numero2, numero3 e numero4), 
 uma variável para armazenar uma frase (frase) e uma variável para armazenar uma palavra (palavra). Os valores atribuídos 
 a essas variáveis são apenas exemplos.
 
 
   O cálculo da média aritmética:
 
-Na linha 8, é calculada a média aritmética dos quatro números usando a fórmula: soma dos números dividida pelo número total de 
+É calculada somando os quatro números e dividindo o resultado pelo número total de números. Isso é feito na linha 8, 
+onde a variável media recebe o resultado da operação (numero1 + numero2 + numero3 + numero4) / 4. Em outras palavras, 
+a média aritmética dos quatro números usando a fórmula: soma dos números dividida pelo número total de 
 números (no caso, 4). O resultado é armazenado na variável media.
 
 
@@ -53,27 +58,36 @@ calculado e o resultado é armazenado na variável quadrado_numero.
 
   O cálculo do dobro de um dos números:
 
-Na linha 14, é calculado o dobro de um dos números simplesmente multiplicando o número por 2. Neste caso, o dobro de numero2 é calculado e 
-o resultado é armazenado na variável dobro_numero.
+Na linha 14, é calculado o dobro de um dos números simplesmente multiplicando o número por 2. Aqui, o dobro de numero2 é calculado 
+(ou seja o numero2 é multiplicado por 2) e o resultado é armazenado na variável dobro_numero.
 
 
   A contagem da quantidade de letras da palavra:
 
-Na linha 17, é utilizada a função len() para contar o número de caracteres na palavra. O resultado é armazenado na variável quantidade_letras.
-Contagem da quantidade de espaços em branco na frase:
-
-Na linha 20, é utilizada o método count() para contar a quantidade de espaços em branco na frase. O resultado é armazenado na variável quantidade_espacos.
-Verificação se o primeiro número é maior que o segundo:
-
-Na linha 23, é realizada uma comparação usando o operador >. Se numero1 for maior que numero2, a variável primeiro_maior será True; caso contrário, será False.
-Encontrando o maior número entre os quatro:
-
-Na linha 26, é utilizada a função max() para encontrar o maior número entre os quatro números. O resultado é armazenado na variável maior_numero.
-Impressão dos resultados:
+Na linha 17, é utilizada a função len() para contar o número de caracteres na palavra, ou seja o número de letras que ela contém. 
+Deste modo, o resultado é armazenado na variável quantidade_letras.
 
 
-  Por fim, nas linhas finais, os resultados de todas as operações são impressos na tela usando a função print().
+  Contagem da quantidade de espaços em branco na frase:
 
+Na linha 20, é utilizada o método count() para contar a quantidade de espaços em branco na frase. O resultado é armazenado na variável quantidade_espacos. 
+Mais explicitamente, a quantidade de espaços em branco na frase é calculada na linha 20 usando o método count() aplicado à string frase. Isso retorna o 
+número de ocorrências do espaço em branco na frase, que é então armazenado na variável quantidade_espacos.
+
+
+  Verificação se o primeiro número é maior que o segundo:
+
+Na linha 23, é realizada uma comparação usando o operador >. Nesta perspectiva, se numero1 for maior que numero2, a variável primeiro_maior será True; caso contrário, será False.
+
+
+  Encontrando o maior número entre os quatro:
+
+Na linha 26, é utilizada a função max() para determinar o maior número entre os quatro números fornecidos. Neste sentido, o resultado é armazenado/atribuído à variável maior_numero.
+
+
+  Impressão dos resultados:
+
+Por fim, nas linhas finais, os resultados de cada operação são impressos na tela usando a função print(), cada um acompanhado de uma mensagem explicativa.
 
   Destarte, conclui-se que esta é a explicação detalhada do script Python fornecido, mostrando como cada linha contribui para realizar as operações 
 especificadas e imprimir os resultados correspondentes.
