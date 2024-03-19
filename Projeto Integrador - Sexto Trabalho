@@ -23,22 +23,39 @@ resultado):
 • o maior número;
 
 
-Segue exemplo, do script pedido a cima: 
+  Segue exemplo, do script pedido a cima:
+
+https://github.com/anabrunetto/brunetto/blob/main/Script%20de%20Python%20Vari%C3%A1veis.PNG
 
 
-Definindo as variáveis:
+  Este script disposto anteriormente, executa diversas operações matemáticas e de manipulação de strings, mostrando como 
+usar variáveis e operadores em Python para realizar diferentes tarefas. Dessa forma, cada operação deste script é explicada 
+de forma detalhada, desde a definição das variáveis até a impressão dos resultados.
 
-As quatro primeiras linhas do código definem quatro variáveis para armazenar números (numero1, numero2, numero3 e numero4), uma variável para armazenar uma frase (frase) e uma variável para armazenar uma palavra (palavra). Os valores atribuídos a essas variáveis são apenas exemplos.
-Cálculo da média aritmética:
+Assim,
+
+  As quatro primeiras linhas do código definem quatro variáveis para armazenar números (numero1, numero2, numero3 e numero4), 
+uma variável para armazenar uma frase (frase) e uma variável para armazenar uma palavra (palavra). Os valores atribuídos 
+a essas variáveis são apenas exemplos.
+
+
+  O cálculo da média aritmética:
 
 Na linha 8, é calculada a média aritmética dos quatro números usando a fórmula: soma dos números dividida pelo número total de números (no caso, 4). O resultado é armazenado na variável media.
-Cálculo do quadrado de um dos números:
+
+
+  O cálculo do quadrado de um dos números:
 
 Na linha 11, é calculado o quadrado de um dos números usando o operador de exponenciação **. Neste caso, o quadrado de numero1 é calculado e o resultado é armazenado na variável quadrado_numero.
-Cálculo do dobro de um dos números:
 
-Na linha 14, é calculado o dobro de um dos números simplesmente multiplicando o número por 2. Neste caso, o dobro de numero2 é calculado e o resultado é armazenado na variável dobro_numero.
-Contagem da quantidade de letras da palavra:
+
+  O cálculo do dobro de um dos números:
+
+Na linha 14, é calculado o dobro de um dos números simplesmente multiplicando o número por 2. Neste caso, o dobro de numero2 é calculado e 
+o resultado é armazenado na variável dobro_numero.
+
+
+  A contagem da quantidade de letras da palavra:
 
 Na linha 17, é utilizada a função len() para contar o número de caracteres na palavra. O resultado é armazenado na variável quantidade_letras.
 Contagem da quantidade de espaços em branco na frase:
@@ -52,9 +69,12 @@ Encontrando o maior número entre os quatro:
 Na linha 26, é utilizada a função max() para encontrar o maior número entre os quatro números. O resultado é armazenado na variável maior_numero.
 Impressão dos resultados:
 
-Nas linhas finais, os resultados de todas as operações são impressos na tela usando a função print().
 
-Destarte, conclui-se que esta é a explicação detalhada do script Python fornecido, mostrando como cada linha contribui para realizar as operações especificadas e imprimir os resultados correspondentes.
+  Por fim, nas linhas finais, os resultados de todas as operações são impressos na tela usando a função print().
+
+
+  Destarte, conclui-se que esta é a explicação detalhada do script Python fornecido, mostrando como cada linha contribui para realizar as operações 
+especificadas e imprimir os resultados correspondentes.
 
 
 
