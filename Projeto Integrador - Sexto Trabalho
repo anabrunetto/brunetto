@@ -41,12 +41,14 @@ a essas variáveis são apenas exemplos.
 
   O cálculo da média aritmética:
 
-Na linha 8, é calculada a média aritmética dos quatro números usando a fórmula: soma dos números dividida pelo número total de números (no caso, 4). O resultado é armazenado na variável media.
+Na linha 8, é calculada a média aritmética dos quatro números usando a fórmula: soma dos números dividida pelo número total de 
+números (no caso, 4). O resultado é armazenado na variável media.
 
 
   O cálculo do quadrado de um dos números:
 
-Na linha 11, é calculado o quadrado de um dos números usando o operador de exponenciação **. Neste caso, o quadrado de numero1 é calculado e o resultado é armazenado na variável quadrado_numero.
+Na linha 11, é calculado o quadrado de um dos números usando o operador de exponenciação **. Neste caso, o quadrado de numero1 é 
+calculado e o resultado é armazenado na variável quadrado_numero.
 
 
   O cálculo do dobro de um dos números:
