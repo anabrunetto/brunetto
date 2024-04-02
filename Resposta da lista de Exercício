@@ -38,9 +38,34 @@ entre outros, organizados em sistemas de arquivos, ou a documentos físicos, com
 O ato de "arquivar" envolve o armazenamento sistemático e organizado de informações para facilitar sua recuperação. Os arquivos 
 podem ser usados em diversos contextos, desde registros históricos e governamentais até documentos corporativos e registros pessoais
 
-3 - 
+3 - A palavra "Internet" encapsula uma vasta gama de conceitos e elementos que interagem para formar essa rede global de comunicação e informação. 
+Aqui está uma breve explicação de como podemos organizar esses diferentes conceitos dentro do contexto da Internet:
 
-4 -
+    Máquinas (Dispositivos): Na Internet, máquinas referem-se aos dispositivos físicos que se conectam à rede para enviar e receber informações. 
+Isso inclui computadores (desktops, laptops, servidores), smartphones, tablets, roteadores, e uma variedade de outros dispositivos inteligentes (IoT) 
+que têm capacidade de se conectar à Internet.
+
+    Cabos e Infraestrutura de Rede: Os cabos são os meios físicos pelos quais os dados são transmitidos de uma máquina para outra através da Internet. 
+Isso pode incluir cabos de fibra óptica, cabos de cobre (como os usados em conexões DSL), cabos coaxiais (usados em conexões de internet a cabo), 
+além de infraestruturas sem fio como redes celulares e Wi-Fi.
+
+    Programas e Protocolos: Programas são conjuntos de instruções ou software que possibilitam o funcionamento da Internet. Isso inclui navegadores da web 
+(como Chrome, Firefox, Safari), aplicativos de mensagens (como WhatsApp, Messenger, Telegram), servidores web (como Apache, Nginx), protocolos de 
+comunicação (como HTTP, TCP/IP, FTP), e uma infinidade de outros softwares que tornam possível a interação e a transferência de dados na Internet.
+
+    Dados e Conteúdo: A Internet é essencialmente um veículo para o compartilhamento e a disseminação de dados e conteúdo. Isso pode incluir textos, 
+imagens, vídeos, áudios, arquivos, e uma variedade de outros tipos de informações que são armazenados e transmitidos através da rede.
+
+    Esses elementos - máquinas, cabos, programas e dados - são interconectados e interagem entre si para permitir a comunicação, o compartilhamento de 
+informações e a realização de diversas atividades online. A organização e a gestão desses elementos são fundamentais para o funcionamento eficiente 
+e seguro da Internet.
+
+4 - Os computadores foram inventados para automatizar tarefas repetitivas e complexas, armazenar e processar grandes volumes de informações, 
+facilitar a comunicação global, impulsionar a inovação tecnológica e ampliar os limites do que é possível realizar. Embora possam ser programados 
+para executar tarefas específicas, sua importância vai além da simples repetição do que os humanos já sabem fazer, contribuindo significativamente 
+para o progresso da sociedade em diversas áreas.
+
+
 
 5 - Nenhum algoritimo pode ter responsabilidade civil. Todavia, a árvore de decisão, 
 podem responder. Assim elas tomam suas decisões em base de critérios claros.
