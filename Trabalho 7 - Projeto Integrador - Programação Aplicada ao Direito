@@ -1,0 +1,70 @@
+Trabalho 7 -  Projeto Integrador - Programação Aplica ao Direito
+
+Aluna = Ana Carolina Brunetto Silva
+Matricula = 2021 0418 2597
+
+Exercício = Construa, em um único arquivo, funções em python que resolvam as seguintes
+questões, presentes no slide 10 da apresentação da semana, da semana 7.
+
+
+
+
+Segue explicação detalhada de um exemplo do exercicio pedido acima =
+
+1 - Função calcular_soma_e_media(lista):
+
+  Esta função recebe uma lista de números como entrada.
+
+- A função sum(lista) é usada para calcular a soma de todos os elementos na lista.
+- len(lista) retorna o número de elementos na lista, que é usado para calcular a média.
+- A soma é dividida pelo número de elementos na lista para obter a média.
+- A função retorna tanto a soma quanto a média como uma tupla (soma, media).
+
+
+2 - Função substituir_palavra(lista, palavra_antiga, palavra_nova):
+
+  Esta função recebe uma lista de palavras, a palavra antiga que deve ser substituída e a nova palavra que irá substituir.
+
+- Usa uma list comprehension para iterar sobre cada palavra na lista.
+- Se a palavra for igual à palavra antiga, ela é substituída pela nova palavra.
+- A lista modificada é retornada.
+
+
+3 - Função gerar_triangulo(num_linhas):
+
+  Esta função recebe o número de linhas que o triângulo deve ter.
+
+- Usa um loop for para iterar de 1 até o número de linhas.
+- Em cada iteração, uma string contendo '*' repetido o número da linha atual é impressa.
+- Como não há um retorno explícito, o triângulo é impresso diretamente.
+- Na parte do código onde temos os exemplos de uso (if __name__ == "__main__":), estamos demonstrando como usar cada função:
+
+Para a Questão 1, uma lista de números é criada, a função calcular_soma_e_media() é chamada com essa lista, e os resultados 
+(soma e média) são impressos.
+Para a Questão 2, uma lista de palavras é criada, uma palavra antiga é definida e uma nova palavra é especificada. A função substituir_palavra() 
+é então chamada com esses argumentos, e a lista alterada é impressa.
+Para a Questão 3, o número de linhas desejado para o triângulo é definido, e a função gerar_triangulo() é chamada com esse número. O triângulo 
+é impresso como resultado.
+
+
+Por fim, este exercício é importante para a =
+
+Demonstração de conceitos fundamentais: O código mostra como implementar funções básicas em Python, como cálculos 
+matemáticos simples, manipulação de listas e iteração com loops.
+
+Reutilização de código: As funções são projetadas para serem reutilizáveis. Isso significa que elas podem ser chamadas em diferentes 
+partes de um programa para realizar tarefas específicas, o que promove a modularidade e a organização do código.
+
+Boas práticas de programação: O código segue boas práticas de programação, como o uso de nomes descritivos de variáveis e funções, 
+além do uso de comentários para explicar o que cada parte do código faz. Isso torna o código mais legível e fácil de entender 
+para outros desenvolvedores.
+
+Exemplos práticos: As funções resolvem problemas comuns que os programadores podem encontrar, como calcular a média e a soma de uma lista de números, 
+substituir ocorrências de uma palavra em uma lista e gerar um triângulo de asteriscos. Esses exemplos práticos ajudam a consolidar o entendimento 
+dos conceitos abordados.
+
+Aplicação de diferentes técnicas: O código utiliza diferentes técnicas da linguagem Python, como list comprehensions, iteração com loops e 
+formatação de strings. Isso ajuda os aprendizes a se familiarizarem com essas técnicas e entenderem quando e como aplicá-las.
+
+Destarte, conclui-se, que este exemplo serve como uma introdução útil para programadores que desejam aprender os fundamentos da programação em Python 
+e como aplicá-los para resolver problemas simples. Ele fornece uma base sólida para construir habilidades de programação mais avançadas no futuro.
