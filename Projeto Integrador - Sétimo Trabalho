@@ -7,9 +7,12 @@ Exercício = Construa, em um único arquivo, funções em python que resolvam as
 questões, presentes no slide 10 da apresentação da semana, da semana 7.
 
 
+Segue abaixo o link de execução em Spyder do exercício pedido =
+
+https://github.com/anabrunetto/brunetto/blob/main/Spyder%20-%20Semana%207.py
 
 
-Segue explicação detalhada de um exemplo do exercicio pedido acima =
+Em posição subsequente, explicação detalhada de um exemplo do exercicio pedido acima =
 
 1 - Função calcular_soma_e_media(lista):
 
@@ -47,7 +50,7 @@ Para a Questão 3, o número de linhas desejado para o triângulo é definido, e
 é impresso como resultado.
 
 
-Por fim, este exercício é importante para a =
+Por fim, é de grande magnitude salientar que este exercício é importante para a =
 
 Demonstração de conceitos fundamentais: O código mostra como implementar funções básicas em Python, como cálculos 
 matemáticos simples, manipulação de listas e iteração com loops.
