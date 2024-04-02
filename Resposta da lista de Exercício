@@ -1,0 +1,101 @@
+Projeto Integrador - Programação aplicada ao Direito
+
+1 - Dominar os conceitos fundamentais da computação é vantajoso ao lidar com o Direito por várias razões como ter a 
+compreensão das implicações legais da tecnologia, ter a capacidade de lidar com evidências digitais, ter a participação 
+em discussões de políticas públicas, ter a capacidade de colaborar com profissionais de TI, Prevenção de violações de dados 
+e conformidade regulatória.
+
+2 - a) Um algoritmo é um conjunto ordenado de instruções precisas e finitas que levam à resolução de um problema específico ou 
+à realização de uma tarefa. Essas instruções são claras o suficiente para serem executadas por um computador ou por um ser humano. 
+Os algoritmos são a base da computação e são utilizados em diversas áreas para realizar desde cálculos simples até operações 
+complexas de processamento de dados. Eles são essenciais para a ciência da computação e a programação de software, além de serem 
+aplicados em processos de otimização e tomada de decisão.
+
+    b) A computação em nuvem é um modelo de prestação de serviços de tecnologia da informação pela internet. Ao invés de armazenar 
+dados e executar aplicativos localmente em computadores ou servidores físicos, os recursos são disponibilizados e acessados pela 
+internet, geralmente através de data centers remotos operados por provedores de serviços de nuvem. Existem três principais modelos 
+de serviço de nuvem: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS). A computação 
+em nuvem oferece benefícios como escalabilidade sob demanda, redução de custos, flexibilidade e agilidade no desenvolvimento e 
+implantação de aplicativos, mas também apresenta desafios relacionados à segurança e privacidade de dados.
+
+   c) Um servidor é um sistema de computação dedicado a fornecer serviços, recursos ou dados para outros dispositivos em uma rede. 
+Ele atende às solicitações dos clientes, como acesso a arquivos, armazenamento de dados, hospedagem de sites ou execução de 
+aplicativos. Os servidores são projetados para serem confiáveis, com alta disponibilidade e desempenho. Existem diferentes tipos 
+de servidores, como servidores de arquivos, servidores de banco de dados, servidores web e servidores de e-mail, cada um especializado 
+em fornecer um tipo específico de serviço.
+
+  d) A neutralidade da rede é um princípio que preconiza o tratamento igualitário de todos os dados transmitidos pela internet, 
+sem discriminação com base na fonte, conteúdo ou destino. Isso garante a liberdade de acesso à informação, promove a concorrência 
+e a inovação, além de proteger a liberdade de expressão online. A ausência de neutralidade da rede poderia permitir que os provedores 
+de serviços de internet discriminem ou favoreçam certos tipos de tráfego, o que poderia prejudicar a concorrência e restringir 
+o acesso dos usuários à internet. O debate sobre a neutralidade da rede continua em muitos países, com diferentes perspectivas 
+sobre como equilibrar os interesses dos provedores de internet, dos consumidores e das empresas que dependem da internet para 
+seus negócios.
+
+  e) Um "arquivo" é um termo utilizado para descrever um conjunto organizado de dados ou informações armazenadas para referência 
+futura, uso posterior ou como evidência. Pode referir-se a dados digitais em computadores, como textos, imagens, vídeos, áudios, 
+entre outros, organizados em sistemas de arquivos, ou a documentos físicos, como papéis, organizados em pastas, arquivos ou caixas. 
+O ato de "arquivar" envolve o armazenamento sistemático e organizado de informações para facilitar sua recuperação. Os arquivos 
+podem ser usados em diversos contextos, desde registros históricos e governamentais até documentos corporativos e registros pessoais
+
+3 - 
+
+4 -
+
+5 - Nenhum algoritimo pode ter responsabilidade civil. Todavia, a árvore de decisão, 
+podem responder. Assim elas tomam suas decisões em base de critérios claros.
+
+6 - Todo o arquivos são binários, mas especificamente no arquivo de texto, os bitys . Arquivo de texto os 0 e 1 sempre são caracteris, 
+tem bits e bytes. Arquvio binários pode ganhar qualquer forma, inclusive carácteres. 
+
+7 - Arquivo privado não tem dono, o formato do arquivo. Não tem mais segurança. Ninguém pode ver. O formato de arquivo proprietário
+é controlado por uma empresa ou organização vai ser controlado conforme o seu interesse. Formato de arquivo proprietário controlado
+por uma empresa ou organização e por seus interesses privados.
+
+8 - Protocolo de comunicação é mantido e controlado por
+
+9 - Sistema operacional é um programa de computador, que oferece uma interface entre os componentes físicos e outros
+programas do computador. Em outras palavras, são camada de abstracao sobre os sistemas fisicos do computador que permitem 
+que os outros programas. softer são camada abstrada. hard 
+
+Não. Tem IOS, Android, Windows, MAC OS.
+
+A OAB acha que é parte essencial, venda casada. sistema operacional é uma parte não essencial do computador. 
+o STJ acha que não é. Venda casada.
+
+10 - a) Abrange sim, em país estrangeiro, desde que ele processe dado de cidadão brasileiro, capturado no Brasil, também ta em LGTD. 
+Trata dos dados capturados no Brasil, brasilerio ou estrangeiro. 
+
+     b) Servidor de aplicação empresa que é dona de aplicativos. Dessa forma, não pode estabelecer uma regra pela lei. Distrói 
+reputações 
+
+
+11 - a) for e while 
+     b) Por meio de indentação. Porque o bloco é definido por dois pontos em uma linha, dessa forma tem a identação. Assim, este
+  termina quando a indentação termina. 
+     c) Contanenação é quando pega um texto no Python onde se escreve amarelo + casa, e o resultado é casa amarela. Em outras palavras, 
+em dois números e a soma; dois textos e geram um terceiro. Soma.
+     d) Bloco, pedaço de um programa de computador. Define uma função def seguida de um nome e da lista de parâmetros da função, 
+seguida por dois pontos e o bloco de comando.
+     F) if = 
+
+        if idade > 18
+            print (maior de idade)
+
+        if-else =
+          
+        if idade > 18 
+           print (maior de idade)
+        else 
+            print (menor de idade)
+
+       if-elf-else =
+
+       if idade > 18:
+           print (maior de idade)
+       elf idade > 12:
+           print (adolescente)
+       else 
+           print (criança) 
+
+        
