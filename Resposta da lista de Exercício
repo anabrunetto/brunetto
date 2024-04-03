@@ -254,5 +254,5 @@ o bloco de código associado ao else é executado.
            print (“criança“) 
 
 
-Destarte, conclui-se que estas são fundamentais para controlar o fluxo de execução do código e tomar decisões dinâmicas durante a execução do programa.
+    Destarte, conclui-se que estas são fundamentais para controlar o fluxo de execução do código e tomar decisões dinâmicas durante a execução do programa.
         
