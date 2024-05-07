@@ -13,12 +13,16 @@ https://github.com/anabrunetto/brunetto/blob/main/Entrada%20e%20sa%C3%ADda%20de%
 1 - Crie uma função que imprima as informações de três parâmetros: nome, idade, e cidade, de maneira formatada. 
 Use os argumentos sep e end da função print( ) para organizar a saída.
 
-Resposta = 
-
-https://github.com/anabrunetto/brunetto/blob/main/Questao%201.py
+Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%201.py
 
 2 - Escreva uma função que peça ao usuário dois números e aoperação desejada ('+', '-', '*' ou '/'). 
 Sua função deve calcular e imprimir o resultado da operação especificada
 
-Resposta =
+Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%202.py
+
+3 - Crie uma função que peça ao usuário para digitar itens de uma lista de compras, separados por vírgula. 
+Armazene esses itens em uma lista e, ao final, imprima todos os itens em linhas separadas usando um laço.
+
+Resposta = 
+
 
