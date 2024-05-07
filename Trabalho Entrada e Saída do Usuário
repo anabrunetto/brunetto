@@ -14,22 +14,24 @@ https://github.com/anabrunetto/brunetto/blob/main/Entrada%20e%20sa%C3%ADda%20de%
 1 - Crie uma função que imprima as informações de três parâmetros: nome, idade, e cidade, de maneira formatada. 
 Use os argumentos sep e end da função print( ) para organizar a saída.
 
-Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%201.py
+Resposta = 
 
 2 - Escreva uma função que peça ao usuário dois números e aoperação desejada ('+', '-', '*' ou '/'). 
 Sua função deve calcular e imprimir o resultado da operação especificada
 
-Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%202.py
+Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%20numero%202.py
 
 3 - Crie uma função que peça ao usuário para digitar itens de uma lista de compras, separados por vírgula. 
 Armazene esses itens em uma lista e, ao final, imprima todos os itens em linhas separadas usando um laço.
 
-Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%203.py
+Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%20numero%203.py
+
 
 4 - Faça uma função que solicite ao usuário a temperatura em graus Celsius, converta-a para Fahrenheit e 
 imprima o resultado. A fórmula de conversão é: (Celsius * 9/5) + 32.
 
-Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%204.py
+Resposta = https://github.com/anabrunetto/brunetto/blob/main/Questao%20numero%204.py
+
 
 5 -  Escreva uma função que continue a pedir ao usuário para digitar nomes até que o nome 'sair' seja digitado. 
 Ao final, o programa deve imprimir todos os nomes digitados, cada um em uma linha.
