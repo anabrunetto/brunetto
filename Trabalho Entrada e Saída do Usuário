@@ -9,3 +9,16 @@ Matricula - 2021 0418 2597
 https://github.com/anabrunetto/brunetto/blob/main/Entrada%20e%20sa%C3%ADda%20de%20usu%C3%A1rio%20-%20trabalho.py
 
   Segue abaixo o arquivo com os exercícios da apresentação para o github =
+
+1 - Crie uma função que imprima as informações de três parâmetros: nome, idade, e cidade, de maneira formatada. 
+Use os argumentos sep e end da função print( ) para organizar a saída.
+
+Resposta = 
+
+https://github.com/anabrunetto/brunetto/blob/main/Questao%201.py
+
+2 - Escreva uma função que peça ao usuário dois números e aoperação desejada ('+', '-', '*' ou '/'). 
+Sua função deve calcular e imprimir o resultado da operação especificada
+
+Resposta =
+
